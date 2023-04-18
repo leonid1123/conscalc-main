@@ -1,0 +1,30 @@
+/home/kostya/projects/conscalc/bin/Debug/net7.0/conscalc
+/home/kostya/projects/conscalc/bin/Debug/net7.0/conscalc.deps.json
+/home/kostya/projects/conscalc/bin/Debug/net7.0/conscalc.runtimeconfig.json
+/home/kostya/projects/conscalc/bin/Debug/net7.0/conscalc.dll
+/home/kostya/projects/conscalc/bin/Debug/net7.0/conscalc.pdb
+/home/kostya/projects/conscalc/obj/Debug/net7.0/conscalc.csproj.AssemblyReference.cache
+/home/kostya/projects/conscalc/obj/Debug/net7.0/conscalc.GeneratedMSBuildEditorConfig.editorconfig
+/home/kostya/projects/conscalc/obj/Debug/net7.0/conscalc.AssemblyInfoInputs.cache
+/home/kostya/projects/conscalc/obj/Debug/net7.0/conscalc.AssemblyInfo.cs
+/home/kostya/projects/conscalc/obj/Debug/net7.0/conscalc.csproj.CoreCompileInputs.cache
+/home/kostya/projects/conscalc/obj/Debug/net7.0/conscalc.dll
+/home/kostya/projects/conscalc/obj/Debug/net7.0/refint/conscalc.dll
+/home/kostya/projects/conscalc/obj/Debug/net7.0/conscalc.pdb
+/home/kostya/projects/conscalc/obj/Debug/net7.0/conscalc.genruntimeconfig.cache
+/home/kostya/projects/conscalc/obj/Debug/net7.0/ref/conscalc.dll
+C:\Users\Leo\Downloads\000\Новая папка\conscalc-main\bin\Debug\net7.0\conscalc.exe
+C:\Users\Leo\Downloads\000\Новая папка\conscalc-main\bin\Debug\net7.0\conscalc.deps.json
+C:\Users\Leo\Downloads\000\Новая папка\conscalc-main\bin\Debug\net7.0\conscalc.runtimeconfig.json
+C:\Users\Leo\Downloads\000\Новая папка\conscalc-main\bin\Debug\net7.0\conscalc.dll
+C:\Users\Leo\Downloads\000\Новая папка\conscalc-main\bin\Debug\net7.0\conscalc.pdb
+C:\Users\Leo\Downloads\000\Новая папка\conscalc-main\obj\Debug\net7.0\conscalc.csproj.AssemblyReference.cache
+C:\Users\Leo\Downloads\000\Новая папка\conscalc-main\obj\Debug\net7.0\conscalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo\Downloads\000\Новая папка\conscalc-main\obj\Debug\net7.0\conscalc.AssemblyInfoInputs.cache
+C:\Users\Leo\Downloads\000\Новая папка\conscalc-main\obj\Debug\net7.0\conscalc.AssemblyInfo.cs
+C:\Users\Leo\Downloads\000\Новая папка\conscalc-main\obj\Debug\net7.0\conscalc.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Downloads\000\Новая папка\conscalc-main\obj\Debug\net7.0\conscalc.dll
+C:\Users\Leo\Downloads\000\Новая папка\conscalc-main\obj\Debug\net7.0\refint\conscalc.dll
+C:\Users\Leo\Downloads\000\Новая папка\conscalc-main\obj\Debug\net7.0\conscalc.pdb
+C:\Users\Leo\Downloads\000\Новая папка\conscalc-main\obj\Debug\net7.0\conscalc.genruntimeconfig.cache
+C:\Users\Leo\Downloads\000\Новая папка\conscalc-main\obj\Debug\net7.0\ref\conscalc.dll
